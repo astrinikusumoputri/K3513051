@@ -1,5 +1,5 @@
 <?php
-	echo "R.A Astrini Kusumo Putri";
+	echo "Hapus oleh K3513051";
 	echo "Edit oleh K3513051";
 ?>
 
